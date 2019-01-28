@@ -61,8 +61,5 @@ function template_preprocess_loremipsum(&$variables){
   }
 }
 
-/**
-* Comentario de prueba master
-*/
 
 ?>

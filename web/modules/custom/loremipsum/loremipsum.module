@@ -61,8 +61,4 @@ function template_preprocess_loremipsum(&$variables){
   }
 }
 
-/**
-* prueba
-*/
-
 ?>
